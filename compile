@@ -1,0 +1,1 @@
+g++ siyirduino.cxx -o siyirduino `sdl-config --libs --cflags` -lSDL_image -lm -lfreetype -lSDL_ttf -lSDL_gfx
